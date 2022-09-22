@@ -1,2 +1,2 @@
 # kubernetes-demo
-various kubernetes deployment
+various kubernetes deployments
