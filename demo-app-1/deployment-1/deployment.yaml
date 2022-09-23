@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: demo-app-1
-  Namespace: demo-app-1-ns
+  namespace: demo-app-1-ns
   labels:
     app: demo-app-1
 spec:
