@@ -1,0 +1,1 @@
+CloudFormation example folder
