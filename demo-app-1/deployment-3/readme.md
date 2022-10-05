@@ -1,1 +1,1 @@
-Terraform example
+Helm example
